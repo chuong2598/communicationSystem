@@ -1,0 +1,9 @@
+// User authentication
+export const AUTHENTICATE_USER = "AUTHENTICATE_USER"
+export const GET_ALL_USER = "GET_ALL_USER"
+export const CHANGE_TAB = "CHANGE_TAB"
+export const START_USING_MEDIA = "START_USING_MEDIA"
+export const STOP_USING_MEDIA = "STOP_USING_MEDIA"
+export const GET_ONLINE_USER = "GET_ONLINE_USER"
+export const GET_OFFER = "GET_OFFER"
+export const CHANGE_LOGIN_STATE = "CHANGE_LOGIN_STATE"
